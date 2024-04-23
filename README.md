@@ -6,13 +6,13 @@ Project to analyse data on CO2 levels, using data files from Aranet4 devices
 [![Click to view and interact with the report](https://github.com/Mike-Honey/gates/raw/main/BMGF-Grants-Decomposition-Tree.png)](https://app.powerbi.com/view?r=eyJrIjoiNTllMTliNjktNWVlYy00YTk5LWFhYjItMjUwYzMxZjQwY2Y2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection874449a5dc80e84560dc)
 
 
-**Reference**
+## Reference
 
 Dataviz using data from CO2 monitors to analyse CO2 levels. The first file format supported is that output by the [Aranet4](https://aranet.com/products/aranet4/) device, in CSV file format. Multiple CSV files can be collected and aggregated together for analysis across monitors.
 
 An Excel template is provided to ease the manual collection of data, where that is preferred.
 
-**Summary**
+## Summary
 
 This project presents a series of interactive dashboard pages to help analyse and understand the data collected on CO2 levels.  The page navigation control is at the centre-bottom, e.g. **< 1 of 4 >**. Click the centre of that control for a menu of the pages.
 
@@ -30,21 +30,30 @@ The page: **Small Multiples** presents a grid of Line charts that aggregates dat
 
 There is a hidden page using the [Key Influencers visual](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop), which is a very powerful no-code, AI-powered analysis engine for understanding the relationships within the data. After every interactive filter you choose, the engine re-runs it's analysis to explore which factors are the Key Influencers for a variable - in this project the CO2 level. That visual is not supported by this publishing method, but you can install the free Power BI Desktop tool, download the .PBIX file from this project and open it to explore that page.
 
-![Key Influencers page](https://github.com/Mike-Honey/gates/raw/main/BMGF-Grants-Key-Influencers.png)]
+![Key Influencers page](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-key-influencers.png)]
 
 The data visualisation engine is [Power BI](https://powerbi.microsoft.com), featuring the Custom Visuals:
 - [HTML Content (Lite)](https://appsource.microsoft.com/en-us/product/power-bi-visuals/coacervolimited1596856650797.htmlcontent_certified?tab=Overview)
 - [Play Axis](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380981?tab=Overview)
 - [Violin Plot](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381947?tab=Overview)
 
-**Data**
+## Data
 
-A sample dataset was provided by an anonymous user. 
+Sample datasets have been shared:
+- **Roaming CAIS** was provided by an anonymous user 
 
-Any Aranet4 user can connect their monitor device to a smartphone using the Aranet app, and [export your measurements](https://forum.aranet.com/all-about-aranet4/how-the-user-can-export-measurement-data-from-aranet4-application/#reply_1868). 
+Any Aranet4 user can connect their monitor device to a smartphone using the Aranet app and [export their measurements](https://forum.aranet.com/all-about-aranet4/how-the-user-can-export-measurement-data-from-aranet4-application/#reply_1868). 
 
-An Excel template file is coming soon, to allow those who wish to gather their data manually to provide it in an acceptable format.
+An ![Excel template file](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-data-file-template.xlsx)] is available to allow those who wish to gather their data manually to provide it in an acceptable format.
 
-If you would like to add your data to the public collection, please submit it by creating an Issue for this project, using the template: **Public Data file submission**.
+If you would like to add your data to the public collection, please submit it by creating an Issue for this project using the template: **Public Data file submission**.
 
 If you would prefer to process your data offline, just clone this project to your local drive, load your files into the **C:\Dev\co2-levels\co2-levels-data-files\aranet4** folder, then open the PBIX file using Power BI Desktop and hit the **Refresh** button.
+
+The Ararnet4 file format is currently the only one supported for this project, but it should be relatively easy to integrate other formats.  If you would like to propose a new format, please create an Issue for this project (using the blank issue template) and attach as many sample files as possible.
+
+## Futures
+
+As well as including a broader range of file formats, I have imagined several directions this project could go in, including:
+1. **Integrate data on locations**, e.g. the monitor was at venue X in a particular time period. Locations could be categorised e.g. cinema, shop, restaurant etc. Locations could be geocoding for a local perspective. I'm thinking the ICS Calendar file format, which can be exported from Outlook, might be a starting format for this. It already provides rich data entry features e.g. date/time, location, categorisation.
+2. 
