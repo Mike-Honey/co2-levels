@@ -6,7 +6,7 @@ Project to analyse data on CO2 levels, using data files from Aranet4 devices
 [![Click to view and interact with the report](https://github.com/Mike-Honey/gates/raw/main/BMGF-Grants-Decomposition-Tree.png)](https://app.powerbi.com/view?r=eyJrIjoiNTllMTliNjktNWVlYy00YTk5LWFhYjItMjUwYzMxZjQwY2Y2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection874449a5dc80e84560dc)
 
 
-**Reference:**
+**Reference**
 
 Dataviz using data from CO2 monitors to analyse CO2 levels. The first file format supported is that output by the [Aranet4](https://aranet.com/products/aranet4/) device, in CSV file format. Multiple CSV files can be collected and aggregated together for analysis across monitors.
 
@@ -36,3 +36,13 @@ The data visualisation engine is [Power BI](https://powerbi.microsoft.com), feat
 - [HTML Content (Lite)](https://appsource.microsoft.com/en-us/product/power-bi-visuals/coacervolimited1596856650797.htmlcontent_certified?tab=Overview)
 - [Play Axis](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380981?tab=Overview)
 - [Violin Plot](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381947?tab=Overview)
+
+**Data**
+
+A sample dataset was provided by an anonymous user. Any Aranet4 user can connect their monitor device to a smartphone using the Aranet app, and [export your measurements](https://forum.aranet.com/all-about-aranet4/how-the-user-can-export-measurement-data-from-aranet4-application/#reply_1868). 
+
+An Excel template file is coming soon, to allow those who wish to gather their data manually to provide it in an acceptable format.
+
+If you would like to add your data to the public collection, please submit it by ???
+
+If you would prefer to process your data offline, just clone this project to your local drive, load your files into the **C:\Dev\co2-levels\co2-levels-data-files\aranet4** folder, then open the PBIX file using Power BI Desktop and hit the **Refresh** button.
