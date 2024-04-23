@@ -1,9 +1,9 @@
 # co2-levels
 Project to analyse data on CO2 levels, using data files from Aranet4 devices
 
-[Link to interactive infographic - Decomposition Tree](https://app.powerbi.com/view?r=eyJrIjoiNTllMTliNjktNWVlYy00YTk5LWFhYjItMjUwYzMxZjQwY2Y2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection874449a5dc80e84560dc)
+[Link to interactive infographic - Scatter](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6dc960586e2cd891bd66)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/gates/raw/main/BMGF-Grants-Decomposition-Tree.png)](https://app.powerbi.com/view?r=eyJrIjoiNTllMTliNjktNWVlYy00YTk5LWFhYjItMjUwYzMxZjQwY2Y2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection874449a5dc80e84560dc)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-scatter.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6dc960586e2cd891bd66)
 
 
 ## Reference
