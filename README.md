@@ -56,11 +56,13 @@ Sample datasets have been shared:
 
 Any Aranet4 user can connect their monitor device to a smartphone using the Aranet app and [export their measurements](https://forum.aranet.com/all-about-aranet4/how-the-user-can-export-measurement-data-from-aranet4-application/#reply_1868). 
 
-An ![Excel template file](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-data-file-template.xlsx)] is available to allow those who wish to gather their data manually to provide it in an acceptable format.
+An [Excel template file](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-data-file-template.xlsx)] is available to allow those who wish to gather their data manually to provide it in an acceptable format.
 
 If you would like to add your data to the public collection, please submit it by creating an Issue for this project using the template: **Public Data file submission**.
 
 If you would prefer to process your data offline, just clone this project to your local drive, load your files into the **C:\Dev\co2-levels\co2-levels-data-files\aranet4** folder, then open the PBIX file using Power BI Desktop and hit the **Refresh** button.
+
+The start of each file name (before the first underscore character "_") will be used as the "Monitor ID".
 
 The Ararnet4 file format is currently the only one supported for this project, but it should be relatively easy to integrate other formats.  If you would like to propose a new format, please create an Issue for this project (using the blank issue template) and attach as many sample files as possible.
 
