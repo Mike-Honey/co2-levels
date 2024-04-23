@@ -1,5 +1,5 @@
 # co2-levels
-Project to analyse data on CO2 levels, using data files from Aranet4 devices
+Project to analyse data on CO2 levels, using data files from Aranet4 devices or manually recorded data.
 
 [Link to interactive infographic - Scatter](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6dc960586e2cd891bd66)
 
