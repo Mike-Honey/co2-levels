@@ -39,10 +39,12 @@ The data visualisation engine is [Power BI](https://powerbi.microsoft.com), feat
 
 **Data**
 
-A sample dataset was provided by an anonymous user. Any Aranet4 user can connect their monitor device to a smartphone using the Aranet app, and [export your measurements](https://forum.aranet.com/all-about-aranet4/how-the-user-can-export-measurement-data-from-aranet4-application/#reply_1868). 
+A sample dataset was provided by an anonymous user. 
+
+Any Aranet4 user can connect their monitor device to a smartphone using the Aranet app, and [export your measurements](https://forum.aranet.com/all-about-aranet4/how-the-user-can-export-measurement-data-from-aranet4-application/#reply_1868). 
 
 An Excel template file is coming soon, to allow those who wish to gather their data manually to provide it in an acceptable format.
 
-If you would like to add your data to the public collection, please submit it by ???
+If you would like to add your data to the public collection, please submit it by creating an Issue for this project, using the template: **Public Data file submission**.
 
 If you would prefer to process your data offline, just clone this project to your local drive, load your files into the **C:\Dev\co2-levels\co2-levels-data-files\aranet4** folder, then open the PBIX file using Power BI Desktop and hit the **Refresh** button.
