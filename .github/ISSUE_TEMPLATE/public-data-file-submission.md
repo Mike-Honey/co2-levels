@@ -9,7 +9,7 @@ assignees: ''
 
 ## Public Data file submission
 
-1. Attach your files to this issue in zip file format.
+1. Attach your files to this issue in zip file format. The start of each file name (before the first underscore character "_") will be used as the "Monitor ID"
 2. Indicate how you would like to be acknowledged for your submission, or state "anonymous".
 
 **Notes:**
