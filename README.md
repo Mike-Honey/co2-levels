@@ -24,6 +24,10 @@ The page: **Scatter** presents a scatter chart showing a dot for every CO2 level
 
 The page: **Violin Plot** presents a [Violin Plot](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381947?tab=Overview) visual that elegantly aggregates data to show the shape of the data readings, combined with a box plot to show the median, mean and Inter-Quartile Range showing a dot for every CO2 level measurement. When there are over 30,000 readings, an automatic sampling algorithm kicks in using the Epanechnikov Kernel. The X-Axis is variable, driven by the **Legend Field** slicer selection. The Y Axis is the CO2 level. 
 
+The page: **Line Chart** presents a Line chart visual that aggregates data by Time of day. The Legend is variable, driven by the **Legend Field** slicer selection. The Y Axis is the CO2 level. 
+
+The page: **Small Multiples** presents a grid of Line charts that aggregates data by Time of day on the X-Axis. The split of data among the grid cells is variable, driven by the **Legend Field** slicer selection. The Y Axis is the CO2 level, standardised across all the grid cells. If more than 6 cells fill the grid, you can scroll down to view them all.
+
 There is a hidden page using the [Key Influencers visual](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop), which is a very powerful no-code, AI-powered analysis engine for understanding the relationships within the data. After every interactive filter you choose, the engine re-runs it's analysis to explore which factors are the Key Influencers for a variable - in this project the CO2 level. That visual is not supported by this publishing method, but you can install the free Power BI Desktop tool, download the .PBIX file from this project and open it to explore that page.
 
 ![Key Influencers page](https://github.com/Mike-Honey/gates/raw/main/BMGF-Grants-Key-Influencers.png)]
