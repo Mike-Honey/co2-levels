@@ -5,6 +5,18 @@ Project to analyse data on CO2 levels, using data files from Aranet4 devices
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-scatter-chart.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6dc960586e2cd891bd66)
 
+[Link to interactive infographic - Violin Plot](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-violin-plot.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
+
+[Link to interactive infographic - Line Chart](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionb5b07ebef76b977178c5)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-line-chart.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionb5b07ebef76b977178c5)
+
+
+[Link to interactive infographic - Small Multiples](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbda0b502b70b85684077)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-small-multiples.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbda0b502b70b85684077)
 
 ## Reference
 
