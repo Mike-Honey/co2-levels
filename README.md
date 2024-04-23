@@ -55,5 +55,5 @@ The Ararnet4 file format is currently the only one supported for this project, b
 ## Futures
 
 As well as including a broader range of file formats, I have imagined several directions this project could go in, including:
-1. **Integrate data on locations**, e.g. the monitor was at venue X in a particular time period. Locations could be categorised e.g. cinema, shop, restaurant etc. Locations could be geocoding for a local perspective. I'm thinking the ICS Calendar file format, which can be exported from Outlook, might be a starting format for this. It already provides rich data entry features e.g. date/time, location, categorisation.
-2. 
+1. **Integrate data on locations**, e.g. the monitor was at venue X in a particular time period. Locations could be categorised e.g. cinema, shop, restaurant etc. Locations could be geocoded for a local perspective. I'm thinking the ICS Calendar file format, which can be exported from Outlook, might be a starting format for this. It already provides rich data entry features e.g. date/time, location, categorisation.
+2. Automated pipeline for data updates.
