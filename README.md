@@ -56,7 +56,7 @@ Sample datasets have been shared:
 
 Any Aranet4 user can connect their monitor device to a smartphone using the Aranet app and [export their measurements](https://forum.aranet.com/all-about-aranet4/how-the-user-can-export-measurement-data-from-aranet4-application/#reply_1868). 
 
-An [Excel template file](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-data-file-template.xlsx)] is available to allow those who wish to gather their data manually to provide it in an acceptable format.
+An [Excel template file](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-data-file-template.xlsx) is available to allow those who wish to gather their data manually to provide it in an acceptable format.
 
 If you would like to add your data to the public collection, please submit it by creating an Issue for this project using the template: **Public Data file submission**.
 
