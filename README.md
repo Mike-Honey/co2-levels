@@ -1,7 +1,11 @@
 # co2-levels
 Project to analyse data on CO2 levels, using data files from Aranet4 devices or manually recorded data.
 
-[Link to interactive infographic - Scatter](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6dc960586e2cd891bd66)
+[Link to interactive infographic - Map and Scatter Chart](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0aac08f4feffb58f17a8)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-map-scatter-chart.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0aac08f4feffb58f17a8)
+
+[Link to interactive infographic - Scatter Chart](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6dc960586e2cd891bd66)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-scatter-chart.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6dc960586e2cd891bd66)
 
@@ -13,6 +17,9 @@ Project to analyse data on CO2 levels, using data files from Aranet4 devices or 
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-line-chart.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionb5b07ebef76b977178c5)
 
+[Link to interactive infographic - Map and Line Chart](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6108938dbf35eb2ca241)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-map-line-chart.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6108938dbf35eb2ca241)
 
 [Link to interactive infographic - Small Multiples](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbda0b502b70b85684077)
 
@@ -24,6 +31,8 @@ Dataviz using data from CO2 monitors to analyse CO2 levels. The first file forma
 
 An Excel template is provided to ease the manual collection of data, where that is preferred.
 
+Calendar files can also be provided in .ics (iCalendar) format, and a Category and Location can be extracted from those and used in the analysis. 
+
 ## Summary
 
 This project presents a series of interactive dashboard pages to help analyse and understand the data collected on CO2 levels.  The page navigation control is at the centre-bottom, e.g. **< 1 of 4 >**. Click the centre of that control for a menu of the pages.
@@ -32,7 +41,7 @@ On every page, slicer controls allow the selection of a range of dates. There is
 
 On most pages, a detailed table at the bottom lists the individual CO2 readings within the scope of the current slicer settings. The table can be resorted by clicking any column header, and the **Focus mode** button (which appears at the top-right corner of the table on hover) will expand the table to fill the browser window.
 
-The page: **Scatter** presents a scatter chart showing a dot for every CO2 level measurement. When there are over 10,000 readings, an automatic sampling algorithm kicks in. It aims to mostly hide the points that overlap with others. The X-Axis is the time of day, expressed in decimal fractions of hours. The actual hour and minute shown is available in the tooltip for any point.  The Y Axis is the CO2 level. A **CO2 Yellow Range** slicer at the right controls which levels of CO2 are coloured Red-Yellow-Green.
+The page: **Scatter Chart** presents a scatter chart showing a dot for every CO2 level measurement. When there are over 10,000 readings, an automatic sampling algorithm kicks in. It aims to mostly hide the points that overlap with others. The X-Axis is the time of day, expressed in decimal fractions of hours. The actual hour and minute shown is available in the tooltip for any point.  The Y Axis is the CO2 level. A **CO2 Yellow Range** slicer at the right controls which levels of CO2 are coloured Red-Yellow-Green.
 
 The page: **Violin Plot** presents a [Violin Plot](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381947?tab=Overview) visual that elegantly aggregates data to show the shape of the data readings, combined with a box plot to show the median, mean and Inter-Quartile Range showing a dot for every CO2 level measurement. When there are over 30,000 readings, an automatic sampling algorithm kicks in using the Epanechnikov Kernel. The X-Axis is variable, driven by the **Legend Field** slicer selection. The Y Axis is the CO2 level. 
 
@@ -49,7 +58,7 @@ The data visualisation engine is [Power BI](https://powerbi.microsoft.com), feat
 - [Play Axis](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380981?tab=Overview)
 - [Violin Plot](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381947?tab=Overview)
 
-## Data
+## CO2 Data
 
 Sample datasets have been shared:
 - **Roaming CAIS** was provided by an anonymous user 
@@ -66,8 +75,23 @@ The start of each file name (before the first underscore character "_") will be 
 
 The Ararnet4 file format is currently the only one supported for this project, but it should be relatively easy to integrate other formats.  If you would like to propose a new format, please create an Issue for this project (using the blank issue template) and attach as many sample files as possible.
 
+## Calendar Data
+
+Calendar data can also be integrated in .ics (iCalendar) format. This can be produced from most Calendar tools, e.g. using Outlook (for Windows), use the File / Save Calendar menu option.
+
+The start of each file name (before the first underscore character "_") will be used as the "Monitor ID".
+
+Calendar entries will be filtered to those where the subject starts with "CO2:". The remaining subject text will be passed through as the "Category" field, which can be used as a filter or shown on various visuals.  
+
+Calendar entries with a Location will be passed through as the "Location" field.  This can be used as a filter, shown on various visuals, and used on map visuals to plot the locations on a global map. This uses Bing's Map feature to "geocode" the coordinates for each Location on the fly.
+
+Each Calendar entry has a start and end date and time. The Power BI logic works through the CO2 data rows and looks up the relevant entry (by Date - Time) in the Calendar for that file folder and Monitor ID.  If overlapping Calendar entries are provided, one is chosen at random.
+
+Recurring Calendar entries are not supported.
+
 ## Futures
 
 As well as including a broader range of file formats, I have imagined several directions this project could go in, including:
-1. **Integrate data on locations**, e.g. the monitor was at venue X in a particular time period. Locations could be categorised e.g. cinema, shop, restaurant etc. Locations could be geocoded for a local perspective. I'm thinking the ICS Calendar file format, which can be exported from Outlook, might be a starting format for this. It already provides rich data entry features e.g. date/time, location, categorisation.
-2. Automated pipeline for data updates.
+1. **Standardised set of Categories** - validate the Category data provided against a standardised reference list (eg an Excel table).
+2. **Cater for recurring Calendar entries** - these appear as a single entry with a string that indicates the recurrence pattern. Find and implement a method to explode those into the detailed entries.
+3. **Automated pipeline** for data updates.
