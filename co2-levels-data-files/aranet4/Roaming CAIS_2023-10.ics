@@ -1,0 +1,1664 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20231001T210000Z
+X-CALEND:20231027T060000Z
+X-WR-RELCALID:{0000002E-80EC-8656-E5CF-0E23F5B8CF11}
+X-WR-CALNAME:MH
+BEGIN:VTIMEZONE
+TZID:AUS Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16010401T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16011007T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091044Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231002T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231002T090000
+LAST-MODIFIED:20240429T110932Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000BFFFC11D159ADA01000000000000000
+	01000000010F6BFA8111E7448B03E885CB24256E2
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091124Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231002T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231002T080000
+LAST-MODIFIED:20240429T110549Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000825BDC35159ADA01000000000000000
+	0100000002DB6E3F2B458F146B506EC36A55BBEBE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091125Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231003T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231003T080000
+LAST-MODIFIED:20240429T110605Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000EB7F2136159ADA01000000000000000
+	010000000308DC8077E3AE642866A17B1B3030047
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091140Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231004T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231004T080000
+LAST-MODIFIED:20240429T110605Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000122F683F159ADA01000000000000000
+	01000000071E75E23D46572408305F48E125A443A
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091141Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231005T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231005T080000
+LAST-MODIFIED:20240429T110620Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000EFA29C3F159ADA01000000000000000
+	010000000648B2E004B74324886A6BA4AD0EB7378
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091141Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231006T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231006T080000
+LAST-MODIFIED:20240429T110620Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000059A0DA3F159ADA01000000000000000
+	010000000A3C8C0AE59FF4141993CCE4469886E41
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091142Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231009T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231009T080000
+LAST-MODIFIED:20240429T110627Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000051001B40159ADA01000000000000000
+	0100000006100051960C6D44AA0820891A386F2C4
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091143Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231012T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231012T080000
+LAST-MODIFIED:20240429T110650Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000028D1CD40159ADA01000000000000000
+	010000000668ECE1B6A20AE4DA0A82BCF74C08C7D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091144Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231010T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231010T080000
+LAST-MODIFIED:20240429T110635Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000078179641159ADA01000000000000000
+	0100000003E591ABC19EBE74782BA75804D289911
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091145Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231011T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231011T080000
+LAST-MODIFIED:20240429T110635Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000002177D641159ADA01000000000000000
+	010000000B6A7C828AA46574AACB2D96ED89C071D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091158Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231016T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231016T080000
+LAST-MODIFIED:20240429T110715Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000005DF9CC49159ADA01000000000000000
+	0100000007130D38DE3F20742AC16AE4C5C90EED7
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091159Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231017T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231017T080000
+LAST-MODIFIED:20240429T110716Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C7564B4A159ADA01000000000000000
+	010000000F047A4150B3D2947B18888FE3D145A0E
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091200Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231018T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231018T080000
+LAST-MODIFIED:20240429T110716Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000035FF154B159ADA01000000000000000
+	01000000092CED79C6ECD1241B2FF9CB136F2608C
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091201Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231019T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231019T080000
+LAST-MODIFIED:20240429T110723Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E7366E4B159ADA01000000000000000
+	0100000002CEF43ADEA41BD40B7FB888E7A50393A
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091213Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231013T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231013T080000
+LAST-MODIFIED:20240429T110650Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000F1D0FB52159ADA01000000000000000
+	01000000092BAF115ED3EBF42A741A991ECB38F1C
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091214Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231020T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231020T080000
+LAST-MODIFIED:20240429T110724Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E51D2953159ADA01000000000000000
+	010000000F1AA3F3C82CA1E4EB0CEB9E2FD381827
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091214Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231025T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231025T080000
+LAST-MODIFIED:20240429T110747Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000F1A55153159ADA01000000000000000
+	010000000CBE0514C115A274C8705584653A63310
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091215Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231023T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231023T080000
+LAST-MODIFIED:20240429T110732Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000929F653159ADA01000000000000000
+	0100000008D1BCA10A8BBB1438F20CFC7F3B41DD2
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091215Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231024T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231024T080000
+LAST-MODIFIED:20240429T110732Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000BFF2C54159ADA01000000000000000
+	010000000185DA15D8EE18047B0CE7003ACA2AD62
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091229Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231027T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231027T080000
+LAST-MODIFIED:20240429T110747Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A6F2955C159ADA01000000000000000
+	010000000165EB2782A362946982B69BE4BA77B9F
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091230Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231003T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231003T090000
+LAST-MODIFIED:20240429T110947Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000B305065D159ADA01000000000000000
+	010000000BB0C83709A4C9D4AAEE0CA2B14AB34C5
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091231Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231013T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231013T090000
+LAST-MODIFIED:20240429T110947Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000EDFE435D159ADA01000000000000000
+	010000000FEA6E7B48B9C744E9611A81A550637F3
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091248Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231016T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231016T090000
+LAST-MODIFIED:20240429T110955Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000005351D167159ADA01000000000000000
+	010000000F777251A0C5E5A4D9BBCBA408974CD44
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091249Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231017T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231017T090000
+LAST-MODIFIED:20240429T110956Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000054FF1F68159ADA01000000000000000
+	010000000CE853B9B000CF041AB8039B02D52E00A
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091249Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231027T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231027T090000
+LAST-MODIFIED:20240429T111036Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D7105268159ADA01000000000000000
+	01000000017EDD20489D6DE41847C4F64DB67D609
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091304Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231026T090000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231026T080000
+LAST-MODIFIED:20240429T110747Z
+LOCATION:Footscray Station (Irving Street\, Footscray Victoria 3011\, Austr
+	alia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Public Transport
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000007378EF70159ADA01000000000000000
+	01000000094E9E769BDDF744B853C5F828AA054FE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091304Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231023T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231023T090000
+LAST-MODIFIED:20240429T111018Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000874E2671159ADA01000000000000000
+	0100000002722E8A40FE512489E2E9B7A0A62F391
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091319Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231019T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231019T090000
+LAST-MODIFIED:20240429T111010Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000DC9D679159ADA01000000000000000
+	010000000C92B2192604C444FBCAE4B2CA1E2FCE2
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091319Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231020T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231020T090000
+LAST-MODIFIED:20240429T111018Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000087C3527A159ADA01000000000000000
+	010000000C45CA4889235814D94D452C48DF3619F
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T091356Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231018T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231018T090000
+LAST-MODIFIED:20240429T111010Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000006B4D1490159ADA01000000000000000
+	0100000000AFB1979697D834AAC40B4D3C4329D9E
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111036Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231004T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231004T090000
+LAST-MODIFIED:20240429T111036Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000F6C676DC259ADA01000000000000000
+	01000000013CF0F0107BBF549914C8C97FE15C4DF
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111036Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231005T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231005T090000
+LAST-MODIFIED:20240429T111036Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000009BADA1DC259ADA01000000000000000
+	010000000E35180A5D7849F4986211B1131EA6A61
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111036Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231006T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231006T090000
+LAST-MODIFIED:20240429T111036Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000082D5C7DC259ADA01000000000000000
+	010000000869CCC7B9145474D9A9FD98BDF0DCC39
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111051Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231009T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231009T090000
+LAST-MODIFIED:20240429T111051Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000DA2971E5259ADA01000000000000000
+	01000000063F9F89587BF084C94E3ACB202A974D1
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111051Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231010T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231010T090000
+LAST-MODIFIED:20240429T111051Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000073AE99E5259ADA01000000000000000
+	010000000C4CF4640DFDB624BAE347F49611F2DE5
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111051Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231011T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231011T090000
+LAST-MODIFIED:20240429T111052Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000001CD4BFE5259ADA01000000000000000
+	010000000ECD64B99F4C32C4CB3ED43749136E784
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111052Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231012T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231012T090000
+LAST-MODIFIED:20240429T111052Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000003EFAE5E5259ADA01000000000000000
+	010000000A7AAAAA4145CBF408607B0903C26CDFE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111052Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231024T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231024T090000
+LAST-MODIFIED:20240429T111052Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000021820EE6259ADA01000000000000000
+	010000000464CF77238EBEA499373C91D20914F5B
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111052Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231025T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231025T090000
+LAST-MODIFIED:20240429T111052Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A76C39E6259ADA01000000000000000
+	010000000920F7675BDA8D448ADF42D1BE1910295
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240429T111106Z
+DESCRIPTION: \n\n
+DTEND;TZID="AUS Eastern Standard Time":20231026T170000
+DTSTAMP:20240429T111204Z
+DTSTART;TZID="AUS Eastern Standard Time":20231026T090000
+LAST-MODIFIED:20240429T111106Z
+LOCATION:Southbank Boulevard Public Bbq (Southbank\, St Kilda Road\, Southb
+	ank Vic 3000\, Australia)
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:CO2: Work
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E61575EE259ADA01000000000000000
+	01000000099DF07B774554248AE10F0412B191778
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=us-ascii"><meta name="Generato
+	r" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defi
+	nitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 
+	5 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"
+	Aptos"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-size:11.0pt\;\n	mso-ligatures:none\;\n	mso-fareast
+	-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:
+	72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n
+	--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax
+	="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:e
+	xt="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![en
+	dif]--></head><body lang="EN-AU" link="#467886" vlink="#96607D" style="wor
+	d-wrap:break-word"><div class="WordSection1"><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+END:VCALENDAR
