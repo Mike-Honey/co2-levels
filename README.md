@@ -71,7 +71,7 @@ If you would like to add your data to the public collection, please submit it by
 
 If you would prefer to process your data offline, just clone this project to your local drive, load your files into the **C:\Dev\co2-levels\co2-levels-data-files\aranet4** folder, then open the PBIX file using Power BI Desktop and hit the **Refresh** button.
 
-The start of each file name (before the first underscore character "_") will be used as the "Monitor ID".
+The start of each file name (before the first underscore character "_") will be used as the "Monitor ID".  Data for multiple Monitors must be presented in separate files.
 
 The Ararnet4 file format is currently the only one supported for this project, but it should be relatively easy to integrate other formats.  If you would like to propose a new format, please create an Issue for this project (using the blank issue template) and attach as many sample files as possible.
 
@@ -79,13 +79,15 @@ The Ararnet4 file format is currently the only one supported for this project, b
 
 Calendar data can also be integrated in .ics (iCalendar) format. This can be produced from most Calendar tools, e.g. using Outlook (for Windows), use the File / Save Calendar menu option.
 
-The start of each file name (before the first underscore character "_") will be used as the "Monitor ID".
+An [Excel template file](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-data-file-template.xlsx) is available to allow those who wish to gather their data manually to provide it in an acceptable format.
+
+The start of each file name (before the first underscore character "_") will be used as the "Monitor ID".  Data for multiple Monitors must be presented in separate files.
 
 Calendar entries will be filtered to those where the subject starts with "CO2:". The remaining subject text will be passed through as the "Category" field, which can be used as a filter or shown on various visuals.  
 
 Calendar entries with a Location will be passed through as the "Location" field.  This can be used as a filter, shown on various visuals, and used on map visuals to plot the locations on a global map. This uses Bing's Map feature to "geocode" the coordinates for each Location on the fly.
 
-Each Calendar entry has a start and end date and time. The Power BI logic works through the CO2 data rows and looks up the relevant entry (by Date - Time) in the Calendar for that file folder and Monitor ID.  If overlapping Calendar entries are provided, one is chosen at random.
+Each Calendar entry has a start and end date and time. The Power BI logic works through the CO2 data records and looks up the relevant entry (by Date - Time) in the Calendar for that file folder and Monitor ID.  If overlapping Calendar entries are provided, one is chosen at random.  The assigned Calendar entry determines the "Category" and "Location" fields relevant to that CO2 data record.
 
 Recurring Calendar entries are not supported.
 
