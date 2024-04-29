@@ -77,7 +77,7 @@ The Ararnet4 file format is currently the only one supported for this project, b
 
 ## Calendar Data
 
-Calendar data can also be integrated in .ics (iCalendar) format. This can be produced from most Calendar tools, e.g. using Outlook (for Windows), use the File / Save Calendar menu option.
+Calendar data can also be integrated in .ics (iCalendar) format. This can be produced from most Calendar tools, e.g. using Outlook (for Windows), use the File / Save Calendar menu option. Outlook has limited filters when you produce an iCalendar (.ics) file, so the easiest method may be to create a separate Calendar (within Outlook) for your CO2 entries.
 
 An [Excel template file](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-data-file-template.xlsx) is available to allow those who wish to gather their data manually to provide it in an acceptable format.
 
