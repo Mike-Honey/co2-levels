@@ -1,6 +1,7 @@
 # co2-levels
 Project to analyse data on CO2 levels, using data files from Aranet4 devices or manually recorded data.
 
+## Map and Scatter Chart
 [Link to interactive infographic - Map and Scatter Chart](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0aac08f4feffb58f17a8)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/co2-levels/raw/main/co2-levels-map-scatter-chart.png)](https://app.powerbi.com/view?r=eyJrIjoiZjRjMTFlMzgtMDQwZi00M2EwLTg2NjktNjdhZjkxZDIyZWVmIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0aac08f4feffb58f17a8)
