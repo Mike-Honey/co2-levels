@@ -1,4 +1,4 @@
-# co2-levels
+# CO2 levels
 Project to analyse data on CO2 levels, using data files from Aranet4 devices or manually recorded data.
 
 ## Report pages
