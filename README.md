@@ -92,6 +92,8 @@ The start of each file name (before the first underscore character "_") will be 
 
 The Ararnet4 file format is currently the only one supported for this project, but it should be relatively easy to integrate other formats.  If you would like to propose a new format, please create an Issue for this project (using the blank issue template) and attach as many sample files as possible.
 
+This project has been designed to use the Power BI date/time conversion feature, and the PBIX file is set to expect dates in Australian regional format: dd/mm/yyyy. You can change this using Power BI Desktop by going to File / Options / CURRENT FILE / Regional Settings and choosing your Locale. 
+
 ## Calendar Data
 
 Calendar data can also be integrated in .ics (iCalendar) format. This can be produced from most Calendar tools, e.g. using Outlook (for Windows), use the File / Save Calendar menu option. Outlook has limited filters when you produce an iCalendar (.ics) file, so the easiest method may be to create a separate Calendar (within Outlook) for your CO2 entries.
