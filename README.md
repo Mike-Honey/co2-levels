@@ -119,6 +119,6 @@ As well as including a broader range of file formats, I have imagined several di
 
 ## 🤝 Support
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, feature requests and sponsorship are all welcome!
 
 Give a ⭐️ if you like this project!
