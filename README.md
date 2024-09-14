@@ -116,3 +116,9 @@ As well as including a broader range of file formats, I have imagined several di
 1. **Standardised set of Categories** - validate the Category data provided against a standardised reference list (eg an Excel table).
 2. **Cater for recurring Calendar entries** - these appear as a single entry with a string that indicates the recurrence pattern. Find and implement a method to explode those into the detailed entries.
 3. **Automated pipeline** for data updates.
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
